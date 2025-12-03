@@ -43,6 +43,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "CloudStructures": {
+              "target": "Package",
+              "version": "[3.4.2, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "SqlKata.Execution": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "ZLogger": {
+              "target": "Package",
+              "version": "[2.5.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

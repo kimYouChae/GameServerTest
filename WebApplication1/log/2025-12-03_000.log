@@ -1,0 +1,29 @@
+{"Timestamp":"2025-12-03T18:05:01.8778768+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Now listening on: http://localhost:5041","address":"http://localhost:5041"}
+{"Timestamp":"2025-12-03T18:05:01.8809919+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Application started. Press Ctrl+C to shut down."}
+{"Timestamp":"2025-12-03T18:05:01.8815274+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Hosting environment: Development","EnvName":"Development"}
+{"Timestamp":"2025-12-03T18:05:01.8818579+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Content root path: D:\\GameServerTest\\WebApplication1","ContentRoot":"D:\\GameServerTest\\WebApplication1"}
+{"Timestamp":"2025-12-03T18:05:49.937195+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Now listening on: http://localhost:5041","address":"http://localhost:5041"}
+{"Timestamp":"2025-12-03T18:05:49.9416906+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Application started. Press Ctrl+C to shut down."}
+{"Timestamp":"2025-12-03T18:05:49.9438765+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Hosting environment: Development","EnvName":"Development"}
+{"Timestamp":"2025-12-03T18:05:49.9443112+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Content root path: D:\\GameServerTest\\WebApplication1","ContentRoot":"D:\\GameServerTest\\WebApplication1"}
+{"Timestamp":"2025-12-03T18:17:14.1665498+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Now listening on: http://localhost:5041","address":"http://localhost:5041"}
+{"Timestamp":"2025-12-03T18:17:14.1695263+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Application started. Press Ctrl+C to shut down."}
+{"Timestamp":"2025-12-03T18:17:14.170169+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Hosting environment: Development","EnvName":"Development"}
+{"Timestamp":"2025-12-03T18:17:14.1705553+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Content root path: D:\\GameServerTest\\WebApplication1","ContentRoot":"D:\\GameServerTest\\WebApplication1"}
+{"Timestamp":"2025-12-03T18:17:26.2323683+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Now listening on: http://localhost:5041","address":"http://localhost:5041"}
+{"Timestamp":"2025-12-03T18:17:26.2352479+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Application started. Press Ctrl+C to shut down."}
+{"Timestamp":"2025-12-03T18:17:26.2357396+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Hosting environment: Development","EnvName":"Development"}
+{"Timestamp":"2025-12-03T18:17:26.235903+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Content root path: D:\\GameServerTest\\WebApplication1","ContentRoot":"D:\\GameServerTest\\WebApplication1"}
+{"Timestamp":"2025-12-03T18:22:00.5539903+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Now listening on: http://localhost:5041","address":"http://localhost:5041"}
+{"Timestamp":"2025-12-03T18:22:00.5567769+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Application started. Press Ctrl+C to shut down."}
+{"Timestamp":"2025-12-03T18:22:00.5573029+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Hosting environment: Development","EnvName":"Development"}
+{"Timestamp":"2025-12-03T18:22:00.557507+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Content root path: D:\\GameServerTest\\WebApplication1","ContentRoot":"D:\\GameServerTest\\WebApplication1"}
+{"Timestamp":"2025-12-03T18:31:06.9809903+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Now listening on: http://localhost:5041","address":"http://localhost:5041"}
+{"Timestamp":"2025-12-03T18:31:06.9869571+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Application started. Press Ctrl+C to shut down."}
+{"Timestamp":"2025-12-03T18:31:06.9882306+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Hosting environment: Development","EnvName":"Development"}
+{"Timestamp":"2025-12-03T18:31:06.9885291+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Content root path: D:\\GameServerTest\\WebApplication1","ContentRoot":"D:\\GameServerTest\\WebApplication1"}
+{"Timestamp":"2025-12-03T18:35:22.2640832+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Now listening on: http://localhost:5041","address":"http://localhost:5041"}
+{"Timestamp":"2025-12-03T18:35:22.2668877+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Application started. Press Ctrl+C to shut down."}
+{"Timestamp":"2025-12-03T18:35:22.2674116+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Hosting environment: Development","EnvName":"Development"}
+{"Timestamp":"2025-12-03T18:35:22.2675896+09:00","LogLevel":"Information","Category":"Microsoft.Hosting.Lifetime","Message":"Content root path: D:\\GameServerTest\\WebApplication1","ContentRoot":"D:\\GameServerTest\\WebApplication1"}
+{"Timestamp":"2025-12-03T18:35:35.4794744+09:00","LogLevel":"Information","Category":"WebApplication1.Controllers.LoginController","Message":"GET /api/login 호출됨!"}
